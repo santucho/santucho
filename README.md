@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ##### BIO
 - 📚 Software Engineer at National Technological University - [UTN FRBA](https://en.wikipedia.org/wiki/National_Technological_University)
-- 🏢 I'm currently working at [Wildlife Studios](https://wildlifestudios.com/)
-- 🏢 Former [Despegar](https://www.despegar.com) employee
+- 🏢 I'm currently working at [Despegar](https://www.despegar.com)
+- 🏢 Former [Wildlife Studios](https://wildlifestudios.com/) employee
 - ⚙️ I use daily .scala, .kt, .java, .py, and a little bit of .js
 - ✨ Very interested in functional programming and learning about it
 - 🌱 Learning .hs and .go languages
